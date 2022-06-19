@@ -2,3 +2,4 @@ matplotlib<=3.4.0
 ipywidgets
 pandas
 sklearn
+ipympl
